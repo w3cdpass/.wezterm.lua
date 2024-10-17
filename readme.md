@@ -1,6 +1,6 @@
 ## Windows Configuration Steps
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/w3cdpass/stunning-octo-tribble/refs/heads/main/assets/weztermconfig.png" alt="Sample Image" width="700" />
+    <img src="https://raw.githubusercontent.com/w3cdpass/stunning-octo-tribble/refs/heads/main/assets/weztermconfig.png" alt="Sample Image" width="800" />
 </div>
 
 
